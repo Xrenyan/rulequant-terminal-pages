@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[5079,["113","static/chunks/2cff3fec-331f0df3ae61ae7f.js","476","static/chunks/476-c280b650c0b103a8.js","74","static/chunks/74-58725cec67d2aafd.js","431","static/chunks/app/formula-detail/page-d5c621fbaf8d4c4c.js"],"RuleQuantTerminal"]
+2:I[5079,["113","static/chunks/2cff3fec-e0290a9bd7907074.js","476","static/chunks/476-11cca8ca738da337.js","74","static/chunks/74-1f1ecc26038ce016.js","431","static/chunks/app/formula-detail/page-11cbbaacb730714a.js"],"RuleQuantTerminal"]
 3:I[4603,[],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"activeView":"formula-detail"}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0si9-lLPeHp_CpUPrWdWi"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"activeView":"formula-detail"}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"M_KHlZ1bAJckzKdJ4CN99"}
 5:null
