@@ -12080,10 +12080,10 @@
   "referenceHistory": [],
   "meta": {
     "enabled": true,
-    "source": "github-pages",
-    "updatedAt": "2026-06-28T07:05:50.582Z",
+    "source": "github",
+    "updatedAt": "2026-06-28T06:26:18.290Z",
     "latestIssue": "2026178",
     "recordCount": 178,
-    "message": "GitHub Pages scheduled refresh from draw source"
+    "message": "Static data refreshed without rolling back newer local draws"
   }
 }
