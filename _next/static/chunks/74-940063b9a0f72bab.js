@@ -7966,7 +7966,7 @@ function RuleQuantTerminalClient({ activeView }) {
                                                                 ]
                                                             }),
                                                             /*#__PURE__*/ (0,jsx_runtime.jsx)("div", {
-                                                                className: "mt-5 grid grid-cols-4 justify-items-center gap-2 sm:flex sm:flex-wrap sm:justify-items-start",
+                                                                className: "mt-5 flex max-w-full flex-wrap gap-2",
                                                                 children: latestRawDraw ? [
                                                                     latestRawDraw.n1,
                                                                     latestRawDraw.n2,
