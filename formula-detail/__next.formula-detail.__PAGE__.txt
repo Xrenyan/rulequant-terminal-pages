@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[38571,["/rulequant-terminal-pages/_next/static/chunks/173mw95obyzi7.js","/rulequant-terminal-pages/_next/static/chunks/3n3yvff_6qsfw.js","/rulequant-terminal-pages/_next/static/chunks/1cvh5zz3dd4gj.js"],"RuleQuantTerminal"]
+2:I[38571,["/rulequant-terminal-pages/_next/static/chunks/173mw95obyzi7.js","/rulequant-terminal-pages/_next/static/chunks/3n3yvff_6qsfw.js","/rulequant-terminal-pages/_next/static/chunks/2j_2hivnuhy28.js"],"RuleQuantTerminal"]
 3:I[25355,["/rulequant-terminal-pages/_next/static/chunks/173mw95obyzi7.js","/rulequant-terminal-pages/_next/static/chunks/3n3yvff_6qsfw.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"activeView":"formula-detail"}],[["$","script","script-0",{"src":"/rulequant-terminal-pages/_next/static/chunks/1cvh5zz3dd4gj.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"X8JleUP9mPJjTnmYajpnR"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"activeView":"formula-detail"}],[["$","script","script-0",{"src":"/rulequant-terminal-pages/_next/static/chunks/2j_2hivnuhy28.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"x9zc6ALz7G6Sr0qPM_7xV"}
 5:null
