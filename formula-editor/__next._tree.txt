@@ -1,2 +1,2 @@
-:HL["/rulequant-terminal-pages/_next/static/chunks/1f3wvcrq4y-wr.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"formula-editor","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"sMRdaCIFcENShgZtRAjsY"}
+:HL["/rulequant-terminal-pages/_next/static/chunks/0ocqc6oo_1zgq.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"formula-editor","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"-K1XEm6mTsRT9RW271ZpT"}
