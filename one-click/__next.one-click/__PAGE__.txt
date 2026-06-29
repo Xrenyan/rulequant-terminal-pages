@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[38571,["/rulequant-terminal-pages/_next/static/chunks/1rgcueqy0ap5w.js","/rulequant-terminal-pages/_next/static/chunks/265wpt7z1okgp.js","/rulequant-terminal-pages/_next/static/chunks/250x-p9c21h2x.js"],"RuleQuantTerminal"]
+3:I[7301,["/rulequant-terminal-pages/_next/static/chunks/1rgcueqy0ap5w.js","/rulequant-terminal-pages/_next/static/chunks/265wpt7z1okgp.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"activeView":"one-click"}],[["$","script","script-0",{"src":"/rulequant-terminal-pages/_next/static/chunks/250x-p9c21h2x.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"gPTIAFiJ4Ey5KOP9DfyH2"}
+5:null
