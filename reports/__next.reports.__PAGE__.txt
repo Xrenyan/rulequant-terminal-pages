@@ -2,5 +2,5 @@
 2:I[38571,["/rulequant-terminal-pages/_next/static/chunks/173mw95obyzi7.js","/rulequant-terminal-pages/_next/static/chunks/3n3yvff_6qsfw.js","/rulequant-terminal-pages/_next/static/chunks/1i4eqirs6qjzw.js"],"RuleQuantTerminal"]
 3:I[25355,["/rulequant-terminal-pages/_next/static/chunks/173mw95obyzi7.js","/rulequant-terminal-pages/_next/static/chunks/3n3yvff_6qsfw.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"activeView":"reports"}],[["$","script","script-0",{"src":"/rulequant-terminal-pages/_next/static/chunks/1i4eqirs6qjzw.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"IFTAH_vy7eag7I3Ak06Cj"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"activeView":"reports"}],[["$","script","script-0",{"src":"/rulequant-terminal-pages/_next/static/chunks/1i4eqirs6qjzw.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"UnFDLpWT8pStta8DS1C6C"}
 5:null
