@@ -12885,7 +12885,7 @@
   "meta": {
     "enabled": true,
     "source": "github",
-    "updatedAt": "2026-06-30T08:36:26.433Z",
+    "updatedAt": "2026-06-30T10:35:23.742Z",
     "latestIssue": "2026180",
     "recordCount": 180,
     "message": "Static data refreshed without rolling back newer local draws"
