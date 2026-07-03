@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
 3:I[25355,["/rulequant-terminal-pages/_next/static/chunks/173mw95obyzi7.js","/rulequant-terminal-pages/_next/static/chunks/3n3yvff_6qsfw.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":["$L2",null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"kKJgTVXweyr4opaSX7XwE"}
+0:{"rsc":["$","$1","c",{"children":["$L2",null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"RWdGjL8OI2CTCWj-b0I5g"}
 5:null
 2:E{"digest":"NEXT_REDIRECT;replace;/dashboard;307;"}
