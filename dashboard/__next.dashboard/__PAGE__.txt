@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[38571,["/rulequant-terminal-pages/_next/static/chunks/183rk9oi4b2e6.js","/rulequant-terminal-pages/_next/static/chunks/265wpt7z1okgp.js","/rulequant-terminal-pages/_next/static/chunks/1erhf81pk64m6.js","/rulequant-terminal-pages/_next/static/chunks/3hh3p0lzqxbbl.js","/rulequant-terminal-pages/_next/static/chunks/0awfyj7vgui2t.js"],"RuleQuantTerminal"]
+3:I[7301,["/rulequant-terminal-pages/_next/static/chunks/183rk9oi4b2e6.js","/rulequant-terminal-pages/_next/static/chunks/265wpt7z1okgp.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"activeView":"dashboard"}],[["$","script","script-0",{"src":"/rulequant-terminal-pages/_next/static/chunks/1erhf81pk64m6.js","async":true}],["$","script","script-1",{"src":"/rulequant-terminal-pages/_next/static/chunks/3hh3p0lzqxbbl.js","async":true}],["$","script","script-2",{"src":"/rulequant-terminal-pages/_next/static/chunks/0awfyj7vgui2t.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"c-mjQtL109BF_0G7z2JcZ"}
+5:null
