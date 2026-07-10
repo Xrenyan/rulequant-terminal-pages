@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[1419,["558","static/chunks/app/layout-13fb05d3e105b9be.js"],"PrivateAccessGate"]
-3:I[2777,[],""]
-4:I[9453,[],""]
-:HL["/rulequant-terminal-pages/_next/static/css/e37f03cd01802641.css","style"]
-0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/rulequant-terminal-pages/_next/static/css/e37f03cd01802641.css","precedence":"next"}]],["$","html",null,{"lang":"zh-CN","className":"h-full antialiased","children":["$","body",null,{"className":"min-h-full","children":["$","$L2",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]}]}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"xRISKQPORqyWa4Ae7jiSC"}
+2:I[3452,["558","static/chunks/app/layout-2c4b2c14edcf5202.js"],"PrivateAccessGate"]
+3:I[6972,[],""]
+4:I[8906,[],""]
+:HL["/rulequant-terminal-pages/_next/static/css/10b9318fb91072a5.css","style"]
+0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/rulequant-terminal-pages/_next/static/css/10b9318fb91072a5.css","precedence":"next"}]],["$","html",null,{"lang":"zh-CN","className":"h-full antialiased","children":["$","body",null,{"className":"min-h-full","children":["$","$L2",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]}]}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"1bWEyazxW4q2G87sFWxJo"}
