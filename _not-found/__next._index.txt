@@ -1,6 +1,7 @@
 1:"$Sreact.fragment"
-2:I[3452,["558","static/chunks/app/layout-e54bb0803355b44f.js"],"PrivateAccessGate"]
-3:I[6972,[],""]
-4:I[8906,[],""]
-:HL["/rulequant-terminal-pages/_next/static/css/60507c88c69e64e0.css","style"]
-0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/rulequant-terminal-pages/_next/static/css/60507c88c69e64e0.css","precedence":"next"}]],["$","html",null,{"lang":"zh-CN","className":"h-full antialiased","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var saved=localStorage.getItem('rulequant-theme');var theme=saved==='light'||saved==='dark'?saved:(matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light');document.documentElement.dataset.theme=theme;document.documentElement.style.colorScheme=theme;}catch(e){document.documentElement.dataset.theme='light';}})();"}}]}],["$","body",null,{"className":"min-h-full","children":["$","$L2",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]}]}]]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"BskxaVvKEf4CQn8xCj9aN"}
+2:I[5244,["558","static/chunks/app/layout-ced075bba2ff935b.js"],"NetworkResilience"]
+3:I[3452,["558","static/chunks/app/layout-ced075bba2ff935b.js"],"PrivateAccessGate"]
+4:I[6972,[],""]
+5:I[8906,[],""]
+:HL["/rulequant-terminal-pages/_next/static/css/919abeb1167a0061.css","style"]
+0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/rulequant-terminal-pages/_next/static/css/919abeb1167a0061.css","precedence":"next"}]],["$","html",null,{"lang":"zh-CN","className":"h-full antialiased","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var saved=localStorage.getItem('rulequant-theme');var theme=saved==='light'||saved==='dark'?saved:(matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light');document.documentElement.dataset.theme=theme;document.documentElement.style.colorScheme=theme;}catch(e){document.documentElement.dataset.theme='light';}})();"}}]}],["$","body",null,{"className":"min-h-full","children":[["$","$L2",null,{}],["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]}]]}]]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"ztqUbNve-kZyuuKJWH60U"}
