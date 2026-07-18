@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-2:I[8822,["7177","static/chunks/app/layout-36e979c14eca71da.js"],"NetworkResilience"]
-3:I[1419,["7177","static/chunks/app/layout-36e979c14eca71da.js"],"PrivateAccessGate"]
-4:I[2777,[],""]
-5:I[9453,[],""]
-:HL["/rulequant-terminal-pages/_next/static/css/faf28dfaa0dbd448.css","style"]
-0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/rulequant-terminal-pages/_next/static/css/faf28dfaa0dbd448.css","precedence":"next"}]],["$","html",null,{"lang":"zh-CN","className":"h-full antialiased","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var saved=localStorage.getItem('rulequant-theme');var theme=saved==='light'||saved==='dark'?saved:(matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light');document.documentElement.dataset.theme=theme;document.documentElement.style.colorScheme=theme;}catch(e){document.documentElement.dataset.theme='light';}})();"}}]}],["$","body",null,{"className":"min-h-full","children":[["$","$L2",null,{}],["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]}]]}]]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"ACNCqc6CmCTMM9pvrLyai"}
+2:I[5244,["558","static/chunks/app/layout-b4137b628f26bc00.js"],"NetworkResilience"]
+3:I[3452,["558","static/chunks/app/layout-b4137b628f26bc00.js"],"PrivateAccessGate"]
+4:I[6972,[],""]
+5:I[8906,[],""]
+:HL["/rulequant-terminal-pages/_next/static/css/a8ba407eb6fea1bb.css","style"]
+0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/rulequant-terminal-pages/_next/static/css/a8ba407eb6fea1bb.css","precedence":"next"}]],["$","html",null,{"lang":"zh-CN","className":"h-full antialiased","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var saved=localStorage.getItem('rulequant-theme');var theme=saved==='light'||saved==='dark'?saved:(matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light');document.documentElement.dataset.theme=theme;document.documentElement.style.colorScheme=theme;}catch(e){document.documentElement.dataset.theme='light';}})();"}}]}],["$","body",null,{"className":"min-h-full","children":[["$","$L2",null,{}],["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]}]]}]]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"d_59hiHGxQ3uGgpGyVLar"}
