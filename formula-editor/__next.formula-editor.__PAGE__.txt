@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[4890,["7511","static/chunks/7511-5a06db1cb298f011.js","3834","static/chunks/3834-121eefbc34ed4e4b.js","175","static/chunks/175-7612150e25450cd5.js","4327","static/chunks/app/formula-editor/page-94ef7facf51639ee.js"],"RuleQuantTerminal"]
+2:I[4890,["7511","static/chunks/7511-5a06db1cb298f011.js","3834","static/chunks/3834-121eefbc34ed4e4b.js","175","static/chunks/175-608c4473a39ad5d6.js","4327","static/chunks/app/formula-editor/page-94ef7facf51639ee.js"],"RuleQuantTerminal"]
 3:I[6663,[],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"activeView":"formula-editor"}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"ooSlrSyc3eNGDAVQ7NzLq"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"activeView":"formula-editor"}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"-KgAb0RqbYHDeG3S_SwZd"}
 5:null
