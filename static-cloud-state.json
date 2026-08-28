@@ -14339,6 +14339,66 @@
           }
         ]
       }
+    },
+    {
+      "issue": "2026240",
+      "year": 2026,
+      "date": "2026-08-28",
+      "n1": 2,
+      "n2": 34,
+      "n3": 22,
+      "n4": 26,
+      "n5": 28,
+      "n6": 37,
+      "special": 27,
+      "sourceUrl": "https://thjffv.ag0rkv-4pnok-ljvvrg.xyz:16633/kj/3/2026.html",
+      "rawAttributes": {
+        "pageIssue": "240",
+        "balls": [
+          {
+            "number": 2,
+            "zodiac": "蛇",
+            "element": "火",
+            "color": "红"
+          },
+          {
+            "number": 34,
+            "zodiac": "鸡",
+            "element": "金",
+            "color": "红"
+          },
+          {
+            "number": 22,
+            "zodiac": "鸡",
+            "element": "水",
+            "color": "绿"
+          },
+          {
+            "number": 26,
+            "zodiac": "蛇",
+            "element": "金",
+            "color": "蓝"
+          },
+          {
+            "number": 28,
+            "zodiac": "兔",
+            "element": "土",
+            "color": "绿"
+          },
+          {
+            "number": 37,
+            "zodiac": "马",
+            "element": "土",
+            "color": "蓝"
+          },
+          {
+            "number": 27,
+            "zodiac": "龙",
+            "element": "金",
+            "color": "绿"
+          }
+        ]
+      }
     }
   ],
   "rules": [
@@ -20823,9 +20883,9 @@
   "meta": {
     "enabled": true,
     "source": "github",
-    "updatedAt": "2026-08-27T20:29:58.095Z",
-    "latestIssue": "2026239",
-    "recordCount": 239,
+    "updatedAt": "2026-08-28T18:41:47.078Z",
+    "latestIssue": "2026240",
+    "recordCount": 240,
     "message": "Static data refreshed without rolling back newer local draws"
   }
 }
