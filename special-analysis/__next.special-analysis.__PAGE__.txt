@@ -1,6 +1,7 @@
 1:"$Sreact.fragment"
-2:I[4890,["7511","static/chunks/7511-5a06db1cb298f011.js","3834","static/chunks/3834-121eefbc34ed4e4b.js","175","static/chunks/175-403986bfd34ad075.js","5359","static/chunks/app/special-analysis/page-2491041573033570.js"],"RuleQuantTerminal"]
+2:I[4444,["2786","static/chunks/2786-a0d004d98bf07241.js","4587","static/chunks/4587-4a5138d32ff3e7e2.js","175","static/chunks/175-3619a48e997bbf9d.js","5359","static/chunks/app/special-analysis/page-7e7fb6842d52c11a.js"],"RuleQuantTerminal"]
 3:I[6663,[],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"activeView":"special-analysis"}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"5-KN2__o1uKW60AR8vMp6"}
+:HL["/rulequant-terminal-pages/_next/static/css/274b668041462d2d.css","style"]
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"activeView":"special-analysis"}],[["$","link","0",{"rel":"stylesheet","href":"/rulequant-terminal-pages/_next/static/css/274b668041462d2d.css","precedence":"next"}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"_Xwqz4cJFR9d14vjsmzA_"}
 5:null
