@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-2:I[4444,["2786","static/chunks/2786-a0d004d98bf07241.js","4587","static/chunks/4587-4a5138d32ff3e7e2.js","175","static/chunks/175-ed24fb9aa56b42af.js","1941","static/chunks/app/formula-result-statistics/page-a49053199ec210df.js"],"RuleQuantTerminal"]
+2:I[4444,["2786","static/chunks/2786-a0d004d98bf07241.js","4587","static/chunks/4587-4a5138d32ff3e7e2.js","175","static/chunks/175-6e5e63820929107d.js","1941","static/chunks/app/formula-result-statistics/page-a49053199ec210df.js"],"RuleQuantTerminal"]
 3:I[6663,[],"OutletBoundary"]
 4:"$Sreact.suspense"
 :HL["/rulequant-terminal-pages/_next/static/css/274b668041462d2d.css","style"]
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"activeView":"formula-result-statistics"}],[["$","link","0",{"rel":"stylesheet","href":"/rulequant-terminal-pages/_next/static/css/274b668041462d2d.css","precedence":"next"}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"FRXN9yyx21ySRrstvxjjz"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"activeView":"formula-result-statistics"}],[["$","link","0",{"rel":"stylesheet","href":"/rulequant-terminal-pages/_next/static/css/274b668041462d2d.css","precedence":"next"}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"UbnY-j7Wgaqt7S8IuFiH0"}
 5:null
