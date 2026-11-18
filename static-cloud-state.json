@@ -31974,7 +31974,7 @@
   "meta": {
     "enabled": true,
     "source": "github",
-    "updatedAt": "2026-11-18T10:19:42.461Z",
+    "updatedAt": "2026-11-18T13:28:12.526Z",
     "latestIssue": "2026321",
     "recordCount": 321,
     "message": "Static data refreshed without rolling back newer local draws"
