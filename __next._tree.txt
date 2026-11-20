@@ -1,2 +1,2 @@
 :HL["/rulequant-terminal-pages/_next/static/css/ece29632c19dff1b.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"vTGecAaPFDe4GD4r2NmEV"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"A8AS_75lNRsRLarIpzh4X"}
